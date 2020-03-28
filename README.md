@@ -1,5 +1,5 @@
 # HSB
-## Book "Likelihood and Bayesian Inference (2020)" by L. Held and D. Sabanés Bové - Supplementary Material
+## Likelihood and Bayesian Inference (2020) by L. Held and D. Sabanés Bové - Supplementary Material
 
 * Data sets used in the examples
 * R code to generate the figures and tables
