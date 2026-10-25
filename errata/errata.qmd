@@ -4,7 +4,7 @@ subtitle: "Likelihood and Bayesian Inference, 2nd edition (2020)"
 format: html
 ---
 
-## 1. Chapter 2, Result 2.3: notation in the proof
+## 1. Chapter 2, Result 2.3 (p. 43): notation in the proof
 
 In the first displayed equation of the proof, the two functions in the
 factorisation should be denoted by $g_1$ and $g_2$, instead of $g$ and $h$,
