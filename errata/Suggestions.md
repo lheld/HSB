@@ -1,8 +1,6 @@
----
-title: "Suggestions"
-subtitle: "Likelihood and Bayesian Inference, 2nd edition (2020)"
-format: html
----
+
+
+# Suggestions to Likelihood and Bayesian Inference, 2nd edition (2020)
 
 ## Clarification in Example 7.4 (Hardy–Weinberg equilibrium), p. 230
 
