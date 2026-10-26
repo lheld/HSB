@@ -27,9 +27,8 @@ For two $p$-dimensional random variables $\boldsymbol{X}$ and $\boldsymbol{Y}$,
 we have
 
 $$
-\operatorname{Cov}(\boldsymbol{Y})
-= \operatorname{E}\{\operatorname{Cov}(\boldsymbol{Y} \mid \boldsymbol{X})\}
-+ \operatorname{Cov}\{\operatorname{E}(\boldsymbol{Y} \mid \boldsymbol{X})\}.
+\mathrm{Cov}(\boldsymbol{Y})
+= \mathrm{E}\{\mathrm{Cov}(\boldsymbol{Y} \mid \boldsymbol{X})\} + \mathrm{Cov}\{\mathrm{E}(\boldsymbol{Y} \mid \boldsymbol{X})\}.
 $$
 
 This is the law of total covariance, analogous to the law of total variance in (A.20).
