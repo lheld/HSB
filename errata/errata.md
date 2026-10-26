@@ -1,8 +1,5 @@
----
-title: "Errata"
-subtitle: "Likelihood and Bayesian Inference, 2nd edition (2020)"
-format: html
----
+
+# Errata to Likelihood and Bayesian Inference, 2nd edition (2020)
 
 ## Correction in Chapter 2, Result 2.3 (p. 43): notation in the proof
 
