@@ -22,9 +22,10 @@ $$
        {g_1\{h(x_{1:n});\theta_2\}},
 $$
 
-so if $h(x_{1:n}) = h(\tilde{x}_{1:n})$, we have
-$\Lambda_{x_{1:n}}(\theta_1,\theta_2)
-= \Lambda_{\tilde{x}_{1:n}}(\theta_1,\theta_2)$
+so if $`h(x_{1:n}) = h(\tilde{x}_{1:n})`$, we have 
+
+$$\Lambda_{x_{1:n}}(\theta_1,\theta_2) = \Lambda_{\tilde{x}_{1:n}}(\theta_1,\theta_2)$$ 
+
 for all $\theta_1$ and $\theta_2$.
 
 We thank Hazhir Shokri (Stockholm University, Sweden), for reporting this erratum.
