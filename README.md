@@ -4,7 +4,8 @@
 * Data sets used in the examples
 * R code to generate the figures and tables
 * Solutions to the exercises
+* Errata and suggestions
 
-For more information on the data and the code, see the README.txt files in the
+For more information on the data and the code, see the `README.txt` files in the
 respective folders.
 
