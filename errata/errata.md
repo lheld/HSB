@@ -6,7 +6,7 @@
 In the first displayed equation of the proof, the two functions in the
 factorisation should be denoted by $g_1$ and $g_2$, instead of $g$ and $h$,
 respectively. The function $h$ defining the statistic remains unchanged inside
-$g_1$. The factor $g_2(x_{1:n})$ does not depend on the parameter and cancels
+$g_1$. The factor $g_2(x_{1:n})$ does not depend on the parameter $\theta$ and cancels
 from the likelihood ratio. The argument and conclusion are unchanged.
 
 The beginning of the proof should read:
@@ -16,10 +16,10 @@ Suppose that (2.18) holds. Then
 
 $$
 \Lambda_{x_{1:n}}(\theta_1,\theta_2)
-= \frac{g_1\{h(x_{1:n});\theta_1\}\cdot g_2(x_{1:n})}
-       {g_1\{h(x_{1:n});\theta_2\}\cdot g_2(x_{1:n})}
-= \frac{g_1\{h(x_{1:n});\theta_1\}}
-       {g_1\{h(x_{1:n});\theta_2\}},
+= \frac{g_1\left(h(x_{1:n}); \theta_1\right)\cdot g_2(x_{1:n})}
+       {g_1\left(h(x_{1:n}); \theta_2\right)\cdot g_2(x_{1:n})}
+= \frac{g_1\left(h(x_{1:n}); \theta_1\right)}
+       {g_1\left(h(x_{1:n}); \theta_2\right)},
 $$
 
 so if $`h(x_{1:n}) = h(\tilde{x}_{1:n})`$, we have 
